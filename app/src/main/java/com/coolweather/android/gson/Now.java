@@ -6,7 +6,7 @@ public class Now {
     @SerializedName("tmp")
     public String temperature;
 
-    @SerializedName("cond_text")
+    @SerializedName("cond_txt")
     public String cond_info;
     public String fl;
     public String hum;
